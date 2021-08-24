@@ -3,7 +3,7 @@
 ```js
 umurakbulut: { 
   title: "Frontend Developer",  
-  company: "InGame Group",
+  company: "ÇiçekSepeti",
   location: "Turkey",
   website: "umurakbulut.net",
   hobbies: ["camping", "travelling", "taking photos", "reading", "chess"]
