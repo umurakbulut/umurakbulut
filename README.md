@@ -6,6 +6,6 @@ umurakbulut: {
   company: "ÇiçekSepeti",
   location: "Turkey",
   website: "umurakbulut.net",
-  hobbies: ["camping", "travelling", "taking photos", "reading", "chess"]
+  hobbies: ["camping", "travelling", "photography", "reading", "chess"]
 }
 ```
