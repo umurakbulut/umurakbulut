@@ -2,7 +2,8 @@
 
 ```js
 umurakbulut: { 
-  title: "Frontend Developer",  
+  title: "Frontend Developer",
+  company: "Insider",  
   location: "Turkey",
   website: "umurakbulut.net",
   hobbies: ["camping", "travelling", "photography", "reading", "chess"]
